@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="mainBody">
       <div className="topHeader">
-        <h1 className="header">JEHOS CREATION <br />CHELSEA TOP PLAYERS</h1>
+        <h1 className="header">CHELSEA PLAYERS</h1>
         <input placeholder="Search a PLAYER of your choice" className="topInput" />
       </div>
       <div className="cardBody">
